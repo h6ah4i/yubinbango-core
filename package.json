@@ -25,6 +25,7 @@
     "gulp-exit": "0.0.2",
     "gulp-webserver": "^0.9.1",
     "run-sequence": "^1.2.1",
+    "typescript": "^2.2.2",
     "uglifyjs": "^2.4.10"
   }
 }
