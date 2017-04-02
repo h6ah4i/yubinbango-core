@@ -10,3 +10,9 @@ YubinBango-Coreに7桁の郵便番号を与えると住所をオブジェクト�
 
     npm install yubinbango-core
 
+
+## Build
+
+```bash
+PATH=$PATH:$PWD/node_modules/.bin python build.py
+```
